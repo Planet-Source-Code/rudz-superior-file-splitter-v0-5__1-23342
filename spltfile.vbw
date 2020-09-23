@@ -1,0 +1,11 @@
+modProgressDeluxe = 54, 96, 936, 532, C
+modFileThingy = 33, 34, 839, 500, C
+modCoolBorder = 66, 60, 946, 518, C
+modMain = 33, 64, 906, 646, 
+modJoin = 49, 28, 894, 639, 
+modSplit = 17, 57, 884, 619, C
+frmSplit = 296, 0, 945, 650, , 126, 178, 580, 483, C
+frmProgress = 154, 154, 939, 560, C, 381, 246, 891, 446, C
+modCrypt = 41, 48, 923, 524, C
+clsHuffman = 34, 63, 770, 730, C
+modFileExists = 69, 158, 772, 658, C

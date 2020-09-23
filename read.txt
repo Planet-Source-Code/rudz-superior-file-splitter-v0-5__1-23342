@@ -1,0 +1,5 @@
+Superior File-Splitter v0.5 | 22/5/2001 |
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+By Rudy Alex Kohn [rudyalexkohn@hotmail.com]
+
+Split file (with optional compression), Following code is used : CoolBorder, Encryption (to ini), Check if file exists, FileString Manipulation, ProgressBar Deluxe 1.01, Huffman Compression Class (by F.Q). Very low memory usage when splitting/joining files. See the about tab for additional Credits.
